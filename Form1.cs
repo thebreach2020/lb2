@@ -6,5 +6,10 @@ namespace laba2
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "я бебра";
+        }
     }
 }
